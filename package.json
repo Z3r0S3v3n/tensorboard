@@ -113,7 +113,7 @@
     "@polymer/polymer": "^3.4.1",
     "@tensorflow/tfjs": "3.4.0",
     "@tensorflow/tfjs-backend-cpu": "3.4.0",
-    "@tensorflow/tfjs-backend-webgl": "3.4.0",
+    "@tensorflow/tfjs-backend-webgl": "3.9.0",
     "@tensorflow/tfjs-core": "3.4.0",
     "@vaadin/vaadin-grid": "^20.0.2",
     "d3": "5.7.0",
